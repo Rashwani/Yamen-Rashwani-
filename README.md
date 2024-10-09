@@ -29,6 +29,6 @@ I'm a certified AWS Solutions Architect passionate about cloud computing, server
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
-[Email](Y.rashwani94@gmail.com)
+- [Email](mailto:Y.rashwani94@gmail.com)
 
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange)
